@@ -1,5 +1,5 @@
->_<p style='text-align: right;'> Omne initium difficile est!)</p>_ 
->_<p style='text-align: right;'> Всякое начало трудно!)</p>_  
+>_<p style='text-align: right;'> Omne initium difficile est!</p>_ 
+>_<p style='text-align: right;'>(Всякое начало трудно!)</p>_  
 ***  
 <center><big>Решение некоторых проблем при работе с СКВ GIT: ***</center></big>  
 
@@ -43,7 +43,7 @@ __Решение:__
 ![Рис.6](./img/523.png "Запрос авторизации")  
 
 5. __Проблема:__ С чего начать работу с репозиторием?  
-__Решение:__  
+__Решение:__   
 Вот что предлагает сделать на первых шагах сайт github:   
 ![Рис.7](./img/524.png "Работа с репозиторием")  
 
