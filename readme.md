@@ -1,3 +1,7 @@
+>_<p style='text-align: right;'> Dimidium facti, qui coepit, facit!</p>_ 
+>_<p style='text-align: right;'> (Начало — половина дела!)</p>_ 
+
+
  ***<center><big>СОДЕРЖАНИЕ:</big></center>***   
 #1. Основные операции с cистемой контроля версий  GIT [1].   
 #2. Инструкция по установке системы контроля версий GIT на ПЭВМ с операционной системой Windows [2].   
