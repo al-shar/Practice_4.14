@@ -9,28 +9,28 @@
 ![Рис.1](./img/51.png "Цифры вместо имен папок")  
 __Решение__: Установка отображения unicode: по умолчанию, git будет печатать не-ASCII символов в именах файлов в виде восьмеричных последовательностей \nnn, что бы избежать нечитаемых строк, установите соответствующий флаг,    
 Ввести команду:  
-`"git config --global core.quotepath off"`  
+`git config --global core.quotepath off`  
 ![Рис.2](./img/511.png "имена папок отображаются корректно на кириллице")  
 
 2. __Проблема:__ Параметры установки окончаний строк.  
 __Решение__:  
 для пользователей Unix/Mac выполнить:  
-`git config --global core.autocrlf input  
-git config --global core.safecrlf warn  
+`git config --global core.autocrlf input`  
+`git config --global core.safecrlf warn`  
 
 Для пользователей Windowsвыполнить:  
-git config --global core.autocrlf true  
-git config --global core.safecrlf warn  
+`git config --global core.autocrlf true`  
+`git config --global core.safecrlf warn`  
 
 ВЫПОЛНИТЬ:
-git config --global user.name "Your Name"
-git config --global user.email "your_email@whatever.com"
+`git config --global user.name "Your Name"`  
+`git config --global user.email "your_email@whatever.com"`  
 
 
 3. __Проблема:__ Установка имени и электронной почты.  
 __Решение:__  
-git config --global user.name "Your Name"
-git config --global user.email "your_email@whatever.com"
+`git config --global user.name "Your Name"`  
+`git config --global user.email "your_email@whatever.com"`  
 
 4. __Проблема:__ при первой загружке данных на сервер появляется запрос авторизации:  
 __Решение:__  
@@ -43,8 +43,15 @@ __Решение:__
 ![Рис.6](./img/523.png "Запрос авторизации")  
 
 5. __Проблема:__ С чего начать работу с репозиторием?  
-__Решение:__   
-Вот что предлагает сделать на первых шагах сайт github:   
+__Решение:__
+Популярные команды для начала работы:
+`git init`  
+`git add`  
+`git commit -m "Init"`  
+`git remote add origin https://github.com/пользователь/репозиторий.git`  
+`git push -u origin master`  
+
+или от что предлагает сделать на первых шагах сайт github:   
 ![Рис.7](./img/524.png "Работа с репозиторием")  
 
 ***
