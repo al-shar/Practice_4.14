@@ -33,9 +33,9 @@ https://githowto.com/ru/
 https://desktop.github.com/
 ![Рис.2](./img/34.png "Desktop Github")  
 
-6. __gitignore__ — сервисы для генерации файла _*.gitignore*_ 
-https://www.toptal.com/developers/gitignore
-http://www.gitignore.io/
+6. __gitignore__ — сервисы для генерации файла _*.gitignore*_   
+https://www.toptal.com/developers/gitignore   
+http://www.gitignore.io/  
 
 7. __Уроки по GIT__
 https://monsterlessons.com/project/series/git-dlya-nachinayushih
